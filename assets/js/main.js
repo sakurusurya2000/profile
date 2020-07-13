@@ -124,7 +124,7 @@ instance.typeString("Hey There!")
     .typeString('currently learning Blockchain and Data Science.')
     .pauseFor(1000)
     .deleteAll()
-    .typeString('Check out my work at github.com/Bhard27')
+    .typeString('Check out my work at github.com/sakurusurya2000')
     .pauseFor(1000)
     .deleteAll()
     .start();
